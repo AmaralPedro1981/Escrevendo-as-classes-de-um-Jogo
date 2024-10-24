@@ -14,7 +14,7 @@ class Heroi {
           break;
         case "guerreiro":
           ataque = "espada";
-          break;
+          break; 
         case "monge":
           ataque = "artes marciais";
           break;
